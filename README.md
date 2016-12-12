@@ -1,6 +1,6 @@
 Hullo
 
-I am writing a tool that checks files for corruption by comparing their calculated checksums
+I am writing [a tool that checks files for corruption](https://github.com/nodanaonlyzuul/bagit-cr) by comparing their calculated checksums
 vs ones in a manifest text file.
 
 Calculating SHA512 checksums is costly for big files but I was **surprised to see Ruby outperforming Crystal**.
