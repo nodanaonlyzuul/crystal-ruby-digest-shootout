@@ -16,7 +16,7 @@ people to confirm my results.
 
 ## Running Benchmarks
 
-Unzip the contents of [this file]((https://dl.dropboxusercontent.com/u/92181/shootout.zip)) into the cloned directory (~5GB).
+Unzip the contents of [this file](https://dl.dropboxusercontent.com/u/92181/shootout.zip) into the cloned directory (~5GB).
 
 ### Running The Crystal App
 
