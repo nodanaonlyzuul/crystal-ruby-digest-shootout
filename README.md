@@ -16,7 +16,7 @@ people to confirm my results.
 
 ## Running Benchmarks
 
-Unzip the contents of [this file](https://dl.dropboxusercontent.com/u/92181/shootout.zip) into the cloned directory (~5GB). They are the files used whose checksums
+Unzip the contents of [this file](https://dl.dropboxusercontent.com/u/92181/shootout.zip) into the cloned directory (~5GB zipped / ~10GB unzipped). They are the files used whose checksums
 are calculated as a test bench.
 
 ### Running The Crystal App
